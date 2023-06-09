@@ -17,10 +17,15 @@ Anaconda - Python 3.7
 #RegisterNumber:212222240065
 
 n1=int(input())
+
 n2=int(input())
+
 t=n1
+
 n1=n2
+
 n2=t
+
 print("Swapped values are:",n1,n2)
 
 ## OUTPUT:
