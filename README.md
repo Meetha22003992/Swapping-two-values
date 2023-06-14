@@ -1,9 +1,8 @@
 # Swapping-two-values
-## AIM:
+## AIM: 
 To write a python program for swapping of two values.
 ## EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
+PC, Anaconda - Python 3.7
 ## ALGORITHM: 
 1. Get the two values from the user
 2. Assign the value of second variable to a temporary variable 
