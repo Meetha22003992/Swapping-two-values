@@ -9,13 +9,11 @@ PC, Anaconda - Python 3.7
 3. Assign the value of the first variable to the second variable.
 4. Assign the value in temporary variable to the first variable
 5. Print both the values it would be interchanged
-6. End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
 #Developed by: Meetha
 #RegisterNumber:212222240065
-
 n1=int(input())
 n2=int(input())
 t=n1
